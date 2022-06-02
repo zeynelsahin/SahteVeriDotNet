@@ -1,0 +1,17 @@
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\bin\Debug\net6.0\SahterVeri.Console.UI.exe
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\bin\Debug\net6.0\SahterVeri.Console.UI.deps.json
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\bin\Debug\net6.0\SahterVeri.Console.UI.runtimeconfig.json
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\bin\Debug\net6.0\SahterVeri.Console.UI.dll
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\bin\Debug\net6.0\SahterVeri.Console.UI.pdb
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\bin\Debug\net6.0\Bogus.dll
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.csproj.AssemblyReference.cache
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.AssemblyInfoInputs.cache
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.AssemblyInfo.cs
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.csproj.CopyComplete
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.dll
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\refint\SahterVeri.Console.UI.dll
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.pdb
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\SahterVeri.Console.UI.genruntimeconfig.cache
+C:\Users\zynls\Masaüstü\Kurs\MVC\SahteVeriDotNet\SahterVeri.Console.UI\obj\Debug\net6.0\ref\SahterVeri.Console.UI.dll

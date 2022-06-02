@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Um8Jw4CiEbWoFizwT2dgvgwbfWLCWAEL6lBnWq0rxhs12477No3MKNAi1KxfeQkB7PX2uNObMdpJ4mjkQ5Is8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zynls\\Masaüstü\\Kurs\\MVC\\SahteVeriDotNet\\SahterVeri.Console.UI\\SahterVeri.Console.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zynls\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
